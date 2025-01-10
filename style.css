@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mx-auto {
+    width: 80%;
+}
+.bodyLogin{
+    background: linear-gradient(to right, #000046, #1cb5e0);
+}
+.colLogin{
+    max-width: 80vh;
+}
+.cardLogin{
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.795);
+}
+.card {
+    margin-top: 10px;
+}
+.footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
