@@ -1,5 +1,5 @@
 Nama : Mujahidilillah
-nik  : 01202205030
+nim  : 01202205030
 
 UAS pemrograman web 
 
